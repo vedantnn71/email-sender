@@ -18,6 +18,11 @@ You can also:
 ### Tech
 * [Python] - We Used Pyhon programming language the most as it is the rising programming language and it is very powerful !
 
+ ``` diff
+- Note
+- You should note have email with 2 Step verification to use this program !
+```
+
 ### Installation
 
 Email-Sender requires [Python](https://python.org/) run.
