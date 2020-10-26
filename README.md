@@ -43,6 +43,7 @@ Open up your favoraite terminal and type the following commandds .
 $ python email-sender/main.py
 ```
 ### Windows
+If You don't have python installed installed [click this](https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe)
 ```cmd 
 c:\> python c:\email-sender\main.py  
 ```
